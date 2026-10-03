@@ -1,0 +1,6 @@
+{
+  "name": "Minimum Cost Road Network - MST Explorer",
+  "description": "Interactive college-level laboratory comparing Prim's, Kruskal's, and Disjoint Set Union (DSU) algorithms for minimum cost road networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
